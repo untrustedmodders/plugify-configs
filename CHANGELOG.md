@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.5](https://github.com/untrustedmodders/plugify-configs/compare/v1.0.4...v1.0.5) (2025-04-03)
+
+
+### Bug Fixes
+
+* add cmake versioning ([6ad9a5d](https://github.com/untrustedmodders/plugify-configs/commit/6ad9a5d0a592d1fc19dfb125321e1512b19b785a))
+* add missing namespace ([8a8e8a0](https://github.com/untrustedmodders/plugify-configs/commit/8a8e8a026d95b2873686ad1205daa574c093fd80))
+* methods exports on Linux ([928a797](https://github.com/untrustedmodders/plugify-configs/commit/928a797f3ccd254d4aa79b4415bf4bfc70d8fc02))
+* update clang-tidy ([34ccabb](https://github.com/untrustedmodders/plugify-configs/commit/34ccabb7e45b7fa2063a4dcd2084d0ef6063402a))
+
 ## [1.0.4](https://github.com/untrustedmodders/plugify-configs/compare/v1.0.3...v1.0.4) (2025-04-01)
 
 
