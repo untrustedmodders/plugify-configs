@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.7](https://github.com/untrustedmodders/plugify-configs/compare/v1.0.6...v1.0.7) (2025-06-28)
+
+
+### Bug Fixes
+
+* update readme and add missing permission ([c3f4baf](https://github.com/untrustedmodders/plugify-configs/commit/c3f4baf1e6ac09ab914ec327aaa4d50eccbf96f2))
+
 ## [1.0.6](https://github.com/untrustedmodders/plugify-configs/compare/v1.0.5...v1.0.6) (2025-06-26)
 
 
