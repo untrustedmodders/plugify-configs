@@ -1,5 +1,26 @@
 # Changelog
 
+## [2.0.0](https://github.com/untrustedmodders/plugify-plugin-configs/compare/v1.0.7...v2.0.0) (2025-09-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* update for a new plugify
+* update for a new plugify
+* update for plugify 2.0
+
+### Features
+
+* update for a new plugify ([c9f0135](https://github.com/untrustedmodders/plugify-plugin-configs/commit/c9f0135ab12c3f01292cf9982ce47195c781d105))
+* update for a new plugify ([e34a3d7](https://github.com/untrustedmodders/plugify-plugin-configs/commit/e34a3d79f8ce990948ea5ed6c3716a68f1ed84e1))
+* update for plugify 2.0 ([9873b8c](https://github.com/untrustedmodders/plugify-plugin-configs/commit/9873b8c29c57dcc10a46518dd20e650feb95b3fa))
+
+
+### Bug Fixes
+
+* build script ([e98de13](https://github.com/untrustedmodders/plugify-plugin-configs/commit/e98de131e0dea100f374db63a508ac92645ba484))
+* replace static by reinterpret cast ([013e353](https://github.com/untrustedmodders/plugify-plugin-configs/commit/013e353b9107c0c6961986e7ebe6e66ffdc4fa12))
+
 ## [1.0.7](https://github.com/untrustedmodders/plugify-configs/compare/v1.0.6...v1.0.7) (2025-07-31)
 
 
